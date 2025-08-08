@@ -1,0 +1,7 @@
+
+@import "tailwindcss";
+
+.custom-arc {
+  border-top-left-radius: 200% 25%;
+  border-top-right-radius: 200% 25%;
+}
