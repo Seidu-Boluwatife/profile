@@ -4,7 +4,7 @@ import Button from './Button'
 const FrontEndMentor = () => {
   return (
     <div className='flex flex-col items-center space-y-2 justify-center bg-black min-h-screen'>
-        <div className='p-3 flex flex-col items-center space-y-2 w-[300px] h-[350] bg-gray-950'> 
+        <div className='p-3 flex flex-col items-center space-y-2 w-[300px] h-[500px] bg-gray-950'> 
             <img src="/tife_pic.jpg" alt="my pic" className='w-24 h-24 rounded-full'/>
         <h1 className='text-white text-xl md:text-2xl'>
             Seidu Boluwatife
